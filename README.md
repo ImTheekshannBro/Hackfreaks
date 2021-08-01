@@ -3,7 +3,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/swatv3nub/)</br>
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshannBro/Hackfreaks)
 ![Python Version](https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor)
 ![Issues](https://img.shields.io/github/issues/swatv3nub/Hackfreaks?style=for-the-badge&logo=appveyor)
 ![Forks](https://img.shields.io/github/forks/swatv3nub/Hackfreaks?style=for-the-badge&logo=appveyor)
